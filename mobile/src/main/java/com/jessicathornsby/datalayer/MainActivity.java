@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity  {
     TextView textview;
     protected Handler myHandler;
     int receivedMessageNumber = 1;
-    int sentMessageNumber = 1;
+    int sentMessageNumber = 0;
 
 
     @Override
